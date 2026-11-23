@@ -1,7 +1,7 @@
 # Hi there, I'm Ahmed Salim 👋
 
 <div align="center">
-  <img width="100%" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=4194FD&background=071A2C&center=true&vCenter=true&width=850&height=140&lines=Ahmed+Salim;Software+%26+Full-Stack+Developer;Computer+Science+Student" alt="Ahmed Salim Banner" />
+<img width="1024" height="339" alt="6cb61964-e21e-45bd-a55e-4191aef4ad5f" src="https://github.com/user-attachments/assets/5f8e5a39-3a40-49aa-8d3e-a54e155cb341" />
 </div>
 
 <br />
