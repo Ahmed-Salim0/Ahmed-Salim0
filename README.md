@@ -1,94 +1,77 @@
-# Hi there, I'm Oussama 👋
+# Hi, I'm Ahmed Salim 👋
 
-<div align="center">
-  <img width="100%" src="https://github.com/oussamabouchikhi/oussamabouchikhi/blob/master/assets/new_cover.png" alt="cover" />
-</div>
+\<h3 align="center">
+&#x20; Computer Science Student | Aspiring Software Developer
+\</h3>
 
+\<p align="center">
+&#x20; \<img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;Computer+Science+Student;Learning+and+Building+Every+Day;Exploring+the+World+of+Software](https://readme-typing-svg.demolab.com?font=Fira+Code\&size=22\&pause=1000\&color=36BCF7\&center=true\&vCenter=true\&width=600\&lines=Welcome+to+my+GitHub+Profile!;Computer+Science+Student;Learning+and+Building+Every+Day;Exploring+the+World+of+Software)" alt="Typing SVG" />
+\</p>
 
-<table>
-  <thead>
-    <tr>
-      <td align="center">
-        <span><strong>Programming Languages & Frameworks</strong></span>
-      </td>
-    </tr>
-  </thead>
-  <br /><br />
-  <tbody>
-    <tr>
-      <td align="center">
-        <img width="70%" src="https://github.com/oussamabouchikhi/oussamabouchikhi/blob/master/assets/skills.png" alt="cover" />
-      </td>
-    </tr>
-  </tbody>
-  
-</table>
-</div>
+---
 
-<br /><br />
+## 👨‍💻 About Me
 
-## About me
-I am Oussama Bouchikhi from Algeria, I graduated with a Bachelor's degree in computer science. I am a Backend developer and a Cloud enthusiast.  
-My prefered stack is Javascript and Typescript (Nodejs/Nestjs).
-I always want to learn new things.
+- 🎓 I'm a **Second-Year Computer Science Student**.
+- 💻 Currently learning programming and software development.
+- 🚀 Interested in building projects and improving my problem-solving skills.
+- 🌱 Exploring different areas of computer science to find my passion.
+- 📚 Always learning something new and improving my technical skills.
 
-<br /><br />
+---
 
-## My Github stats
+## 🛠️ Tech Stack & Skills
 
-<a href="https://github.com/oussamabouchikhi/oussamabouchikhi">
-  <img align="center" src="https://api.githubtrends.io/user/svg/oussamabouchikhi/langs?time_range=one_year&use_percent=True&theme=bright_lights" />
-<!--   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oussamabouchikhi&hide=python,tcl&title_color=FFFFFF&text_color=FFFFFF&bg_color=071A2C&theme=tokyonight&line_height=27&icon_color=4194FD&langs_count=3" /> -->
-</a>
-<a href="https://github.com/oussamabouchikhi/oussamabouchikhi">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=oussamabouchikhi&bg_color=071A2C&icon_color=4194FD&show_icons=true&count_private=true&theme=tokyonight&line_height=27&text_color=FFFFFF" alt="oussamabouchikhi's github stats"/>
-</a>
+\<p align="center">
+&#x20; \<img src="[https://skillicons.dev/icons?i=cpp,python,html,css](https://skillicons.dev/icons?i=cpp,python,html,css)" alt="My Skills" />
+\</p>
 
-<p>
-  <b>For more Github info </b>
-  <a href="https://gitprofilee.netlify.app/user?id=oussamabouchikhi">check this</a>
-</p>
+---
 
-<br /><br />
+## 📊 GitHub Statistics
 
-## My Badges
-[![@oussamabouchikhi's Holopin board](https://holopin.io/api/user/board?user=oussamabouchikhi)](https://www.holopin.io/@oussamabouchikhi)
+\<p align="center">
+&#x20; \<img height="180" src="[https://github-readme-stats.vercel.app/api?username=Ahmed-Salim0&show_icons=true&theme=tokyonight&hide_border=true&count_private=true](https://github-readme-stats.vercel.app/api?username=Ahmed-Salim0\&show_icons=true\&theme=tokyonight\&hide_border=true\&count_private=true)" alt="Ahmed's GitHub Stats" />
+&#x20; \<img height="180" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-Salim0&layout=compact&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-Salim0\&layout=compact\&theme=tokyonight\&hide_border=true)" alt="Top Languages" />
+\</p>
 
-<br /><br />
+\<p align="center">
+&#x20; \<img width="90%" src="[https://github-readme-streak-stats.herokuapp.com/?user=Ahmed-Salim0&theme=tokyonight&hide_border=true](https://github-readme-streak-stats.herokuapp.com/?user=Ahmed-Salim0\&theme=tokyonight\&hide_border=true)" alt="GitHub Streak" />
+\</p>
 
+---
 
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/ousstheboss)
+## 🎯 My Current Goals
 
+- [ ] Improve my C++ programming skills.
+- [ ] Strengthen my Python fundamentals.
+- [ ] Learn Data Structures and Algorithms.
+- [ ] Build real-world programming projects.
+- [ ] Explore different software development fields.
+- [ ] Contribute to open-source projects.
 
-<h2><i>Follow me:</i></h2>
-<div  align="center">
+---
 
-  <a href="https://www.linkedin.com/in/oussama-bouchikhi-49a0b6193/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white&color=071A2C" alt="LinkedIn">
-  </a>
-  <a href="https://www.instagram.com/ousstheboss/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white&color=071A2C" alt="Instagram">
-  </a>
-  <a href="https://www.facebook.com/oussama.bouchikhi.98" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white&color=071A2C" alt="Facebook">
-  </a>
+## 🤝 Connect With Me
 
- <a href="https://twitter.com/oussth3boss/" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-%231877F2.svg?&style=flat-square&logo=twitter&logoColor=white&color=071A2C" alt="Twitter">
-  </a>
-   <a href="mailto:oussamabouchikhi700@gmail.com" mailto="oussamabouchikhi700@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-%231877F2.svg?&style=flat-square&logo=gmail&logoColor=white&color=071A2C" alt="Gmail">
-  </a>
-  <a href="https://www.freelancer.com/u/oussamabouchikhi" target="_blank">
-    <img src="https://img.shields.io/badge/Freelancer-%231877F2.svg?&style=flat-square&logo=freelancer&logoColor=white&color=071A2C" alt="Freelancer">
-  </a>
-  <a href="https://www.upwork.com/freelancers/~01f42213ee8a3771ac" target="_blank">
-    <img src="https://img.shields.io/badge/Upwork-%231877F2.svg?&style=flat-square&logo=upwork&logoColor=white&color=071A2C" alt="Upwork">
-  </a>
-<a href="https://www.fiverr.com/oussama700" target="_blank">
-    <img src="https://img.shields.io/badge/Fiver-%231877F2.svg?&style=flat-square&logo=fiver&logoColor=white&color=071A2C" alt="Fiver">
-  </a>
-</div>
+\<p align="center">
+&#x20; \<a href="[https://www.linkedin.com/in/ahmed-salim-b5852b33b](https://www.linkedin.com/in/ahmed-salim-b5852b33b)">
+&#x20;   \<img src="[https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)" alt="LinkedIn"/>
+&#x20; \</a>
+&#x20; \<a href="mailto\:ahmed.salim0mohmmed\@gmail.com">
+&#x20;   \<img src="[https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)" alt="Gmail"/>
+&#x20; \</a>
+&#x20; \<a href="[https://github.com/Ahmed-Salim0](https://github.com/Ahmed-Salim0)">
+&#x20;   \<img src="[https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)" alt="GitHub"/>
+&#x20; \</a>
+\</p>
 
+---
 
+\<p align="center">
+&#x20; \<i>"Great things are built one line of code at a time."\</i>
+\</p>
 
+\<p align="center">
+&#x20; ⭐ Thanks for visiting my profile!
+\</p>
