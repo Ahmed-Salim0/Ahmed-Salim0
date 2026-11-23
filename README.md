@@ -1,7 +1,7 @@
 # Hi there, I'm Ahmed Salim 👋
 
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=071A2C&height=200&section=header&text=Ahmed%20Salim&fontSize=50&fontColor=4194FD&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20Student%20%7C%20Software%20Developer&descAlignY=58&descSize=18" alt="cover" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=071A2C&height=200&section=header&text=Ahmed%20Salim&fontSize=50&fontColor=4194FD&animation=fadeIn&fontAlignY=38&desc=Software%20%26%20Full-Stack%20Developer%20%7C%20CS%20Student&descAlignY=58&descSize=18" alt="cover" />
 </div>
 
 <br />
@@ -34,8 +34,8 @@
 ## 👨‍💻 About me
 
 - 🎓 I am **Ahmed Salim** from Egypt, currently pursuing a Bachelor's degree in **Computer Science and Information**.
-- 💻 Passionate about **Software Development**, **Frontend Web Development**, and **Problem Solving**.
-- 🛠️ Building projects using **C++**, **Python**, **React**, **HTML**, and **CSS**.
+- 💻 Passionate about **Software Engineering**, **Full-Stack Web Development**, and **Problem Solving**.
+- 🛠️ Building end-to-end applications using **C++**, **Python**, **React**, **HTML**, and **CSS**.
 - 🌱 Always eager to learn new technologies and improve my coding skills.
 
 <br />
