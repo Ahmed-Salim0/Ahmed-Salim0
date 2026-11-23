@@ -1,7 +1,7 @@
 # Hi there, I'm Ahmed Salim 👋
 
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=071A2C&height=200&section=header&text=Ahmed%20Salim&fontSize=50&fontColor=4194FD&animation=fadeIn&fontAlignY=38&desc=Software%20%26%20Full-Stack%20Developer%20%7C%20CS%20Student&descAlignY=58&descSize=18" alt="cover" />
+  <img width="100%" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=4194FD&background=071A2C&center=true&vCenter=true&width=850&height=140&lines=Ahmed+Salim;Software+%26+Full-Stack+Developer;Computer+Science+Student" alt="Ahmed Salim Banner" />
 </div>
 
 <br />
